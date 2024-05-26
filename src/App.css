@@ -1,4 +1,7 @@
 /* App.css */
+*{
+  text-color: black;
+}
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: #f9f9f9;
